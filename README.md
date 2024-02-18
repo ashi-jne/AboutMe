@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-My name is Aishwarya (Ashi), I'm a student and graduate researcher at Florida Atlantic University pursuing a masters in Computer Science with a BSc in Electrical Engineering from the University of Calgary and 6+ years of automation & controls engineering experience in the energy industry. 
+My name is Aishwarya (Ashi), I'm a student and graduate researcher at Florida Atlantic University pursuing a masters in Computer Science with 6+ years of automation & controls engineering experience in the energy industry and a BSc in Electrical Engineering from the University of Calgary. 
 
 Join me as I explore and experiment through the world of Artificial Intelligence and its intersecting applications with software development and hardware design.  
 
